@@ -1,6 +1,3 @@
-# DataAnalytics-Assessment
-
-
 ###  Assessment Q1
     Per-Question Explanations: 
     • Executed an inner join between all the tables in the first CTE. This eliminates users with no values in any of the tables.
